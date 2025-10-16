@@ -1,0 +1,49 @@
+[
+  {
+    "sessionId": "1760658569047",
+    "sessionStart": "2025-10-16T23:49:29.047Z",
+    "sessionEnd": "2025-10-16T23:49:29.080Z",
+    "stats": {
+      "totalInputTokens": 500,
+      "totalOutputTokens": 950,
+      "totalTokens": 1450,
+      "totalCost": 0.01575,
+      "requestCount": 3
+    },
+    "requests": [
+      {
+        "timestamp": "2025-10-16T23:49:29.048Z",
+        "model": "claude-sonnet-4-5",
+        "inputTokens": 150,
+        "outputTokens": 300,
+        "totalTokens": 450,
+        "inputCost": 0.00045,
+        "outputCost": 0.0045,
+        "totalCost": 0.00495,
+        "description": "Запрос к Claude через AgentRouter"
+      },
+      {
+        "timestamp": "2025-10-16T23:49:29.079Z",
+        "model": "claude-sonnet-4-5",
+        "inputTokens": 250,
+        "outputTokens": 450,
+        "totalTokens": 700,
+        "inputCost": 0.00075,
+        "outputCost": 0.00675,
+        "totalCost": 0.0075,
+        "description": "Второй запрос - генерация кода"
+      },
+      {
+        "timestamp": "2025-10-16T23:49:29.079Z",
+        "model": "claude-sonnet-4-5",
+        "inputTokens": 100,
+        "outputTokens": 200,
+        "totalTokens": 300,
+        "inputCost": 0.0003,
+        "outputCost": 0.003,
+        "totalCost": 0.0033,
+        "description": "Третий запрос - быстрый вопрос"
+      }
+    ]
+  }
+]
