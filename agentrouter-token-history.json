@@ -1,0 +1,28 @@
+[
+  {
+    "sessionId": "1760659127603",
+    "sessionStart": "2025-10-16T23:58:47.603Z",
+    "sessionEnd": "2025-10-16T23:58:54.195Z",
+    "stats": {
+      "totalInputTokens": 0,
+      "totalOutputTokens": 0,
+      "totalTokens": 0,
+      "totalCost": 0,
+      "requestCount": 0
+    },
+    "requests": []
+  },
+  {
+    "sessionId": "1760659174074",
+    "sessionStart": "2025-10-16T23:59:34.074Z",
+    "sessionEnd": "2025-10-16T23:59:35.467Z",
+    "stats": {
+      "totalInputTokens": 0,
+      "totalOutputTokens": 0,
+      "totalTokens": 0,
+      "totalCost": 0,
+      "requestCount": 0
+    },
+    "requests": []
+  }
+]
