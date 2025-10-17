@@ -24,5 +24,18 @@
       "requestCount": 0
     },
     "requests": []
+  },
+  {
+    "sessionId": "1760659238307",
+    "sessionStart": "2025-10-17T00:00:38.307Z",
+    "sessionEnd": "2025-10-17T00:00:39.774Z",
+    "stats": {
+      "totalInputTokens": 0,
+      "totalOutputTokens": 0,
+      "totalTokens": 0,
+      "totalCost": 0,
+      "requestCount": 0
+    },
+    "requests": []
   }
 ]
